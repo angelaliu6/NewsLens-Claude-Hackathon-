@@ -1,1 +1,1 @@
-
+Built for a Sprint Hackathon hosted by Anthropic, this is a tool aiming to help people form more nuanced and unbiased political opinions. After receiving an uploaded news article from the user, the platform would highlight non-facts and provide links to opposing opinions, making it easier for people to come across perspectives they may not normally have seen. They would be prompted to write down an opinion before being guided to resources to become more politically active.
